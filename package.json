@@ -7,5 +7,9 @@
     "start": "electron ."
   },
   "author": "Chase Blagden",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron-packager": "^12.1.0"
+  }, 
+  "icon": "images/piazza.ico"
 }

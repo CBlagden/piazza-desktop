@@ -1,0 +1,11 @@
+{
+  "name": "piazzadesktop",
+  "version": "1.0.0",
+  "description": "Desktop app for Piazza",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Chase Blagden",
+  "license": "ISC"
+}
